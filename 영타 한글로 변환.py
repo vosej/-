@@ -36,5 +36,5 @@ while p < len(inputText):
 	else:
 		letters += inputText[p]
 	p += 1
-    
-  print(gather(letters))
+
+print(gather(letters))
